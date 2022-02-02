@@ -1,0 +1,16 @@
+{
+    "name": "day-2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "nodemon --exec jasmine"
+    },
+    "keywords": [],
+    "author": "Raheem Amer",
+    "license": "ISC",
+    "devDependencies": {
+        "jasmine": "^4.0.2",
+        "nodemon": "^2.0.15"
+    }
+}
