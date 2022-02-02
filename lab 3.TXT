@@ -1,0 +1,25 @@
+// ng test --code-coverage
+// ng test
+
+
+
+services folder =====> UserService 
+
+1-test that getValue function returns 'real value'
+
+////////////////////////////////////////////////////////////////////////
+
+User folder =======>user component
+
+1-test that when the clicked function in ts file called , the value of (isOn) variable 
+will be true
+
+2-test that when the clicked function in ts file called again , the value of (isOn) variable 
+will be false
+
+////////////////////////////////////////////////////////////////////////
+
+
+Bonus --> make some routes on the project and test it work as expected
+		"Angular" or "Node"
+
